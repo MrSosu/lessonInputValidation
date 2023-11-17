@@ -1,7 +1,9 @@
 public class Main {
 
     public static void main(String[] args) {
-        InputClass.calculator();
+        // Calculators.calculator();
+        // Calculators.calculator_regex();
+        Calculators.calculator_exceptions();
     }
 
 }
